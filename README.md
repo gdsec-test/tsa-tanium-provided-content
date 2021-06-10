@@ -6,4 +6,4 @@ Examples include:
 * Tanium Labs content available as a Solution in Tanium development environments, but must be signed prior to importing into Production; or
 * TAM-provided content written by Tanium, but not necessarily officially supported.
 
-Content in this repository, in general, should not be modified by GoDaddy except to sign unsigned content with KeyUtility for Tanium Production. Modifications to content itself are considered Custom Content and belong elsewhere.
+Content in this repository, in general, should not be modified by GoDaddy except to sign unsigned content with KeyUtility for Tanium Production. Custom modifications to the functionality of the content in this repo make the resulting content "Custom Content", which belongs elsewhere.
