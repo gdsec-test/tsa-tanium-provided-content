@@ -7,5 +7,3 @@ Examples include:
 * TAM-provided content written by Tanium, but not necessarily officially supported.
 
 Content in this repository, in general, should not be modified by GoDaddy except to sign unsigned content with KeyUtility for Tanium Production. Modifications to content itself are considered Custom Content and belong elsewhere.
-
-Perhaps this repo would be better named `tsa-tanium-provided-content`?
