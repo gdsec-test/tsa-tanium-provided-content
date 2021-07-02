@@ -1,5 +1,5 @@
 # tsa-tanium-provided-content
-This repo contains Tanium Content provided directly by Tanium, whether supported or unsupported.
+This repo contains Tanium Content provided directly by the Tanium vendor, whether supported or unsupported.
 
 Examples include:
 * Tanium module or solutions XML files signed by Tanium for upgrade management;
