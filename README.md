@@ -1,4 +1,5 @@
-## GoDaddy ended its contract with Tanium on December 31, 2022. The content in this repository is deprecated.
+### ⚠️ This repository is archived and its contents are deprecated.
+GoDaddy ended its contract with Tanium on December 31, 2022 and the Tanium Platform was decommissioned on January 31, 2023.
 
 # tsa-tanium-provided-content
 This repo contains Tanium Content provided directly by the Tanium vendor, whether supported or unsupported.
